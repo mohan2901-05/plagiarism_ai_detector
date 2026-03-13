@@ -1,0 +1,1 @@
+Machine learning algorithms can analyze writing patterns and detect AI-generated text.
